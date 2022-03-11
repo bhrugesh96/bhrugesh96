@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhrugesh96
+- 👋 Hi, I’m Bhrugesh.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently Working on WordPress and WooCommerce.
 
