@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Wordpress & WooCommerce Developer</h2>
+ <h2 align="center">WordPress & WooCommerce Developer</h2>
 </p>
 
 - 👋 Hi, I’m Bhrugesh.
