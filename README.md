@@ -19,9 +19,13 @@
 - 👋 Hi, I’m Bhrugesh.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently Working on WordPress and WooCommerce.
+- I'm currently learning React.
 
 ![My github Stats](https://github-readme-stats.vercel.app/api?username=bhrugesh96&include_all_commits=true&show_icons=true&theme=flag-india&layout=compact)
 <!---
 bhrugesh96/bhrugesh96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p>Find me on:</p>
+<a href="https://www.linkedin.com/in/bhrugesh-bavishi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
