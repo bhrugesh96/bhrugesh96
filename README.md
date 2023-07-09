@@ -7,12 +7,12 @@
   <!-- <a href="https://codecov.io/gh/bhrugesh96/github-readme-stats">
     <img src="https://codecov.io/gh/bhrugesh96/github-readme-stats/branch/master/graph/badge.svg" />
   </a> -->
-  <a href="https://github.com/bhrugesh96/github-readme-stats/issues">
+ <!-- <a href="https://github.com/bhrugesh96/github-readme-stats/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/bhrugesh96/github-readme-stats?color=0088ff" />
   </a>
   <a href="https://github.com/bhrugesh96/github-readme-stats/pulls">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/bhrugesh96/github-readme-stats?color=0088ff" />
-  </a>
+  </a> -->
   <br />
 </p>
 
