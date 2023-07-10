@@ -1,6 +1,5 @@
 <p align="center">
- <!-- <img width="100px" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" align="center" alt="GitHub Readme Stats" /> -->
- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/fxKWgoOG9hzPPkE1oc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+ <img width="100px" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">WordPress & WooCommerce Developer</h2>
 </p>
 
